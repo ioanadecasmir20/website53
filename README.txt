@@ -1,0 +1,1 @@
+Guarnest Security static website. Updated September 2026 with final supplied imagery, expanded About and Careers content, image-led Services layout, Contact Us navigation and six standards/membership logos. The Sectors page has been removed.
