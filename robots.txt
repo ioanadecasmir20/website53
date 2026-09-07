@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://guarnestsecurity.co.uk/sitemap.xml
